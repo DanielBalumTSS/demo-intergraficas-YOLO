@@ -1,0 +1,5 @@
+opencv-python
+json
+pytz
+boto3
+ultralytics
